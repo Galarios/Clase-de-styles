@@ -1,0 +1,28 @@
+.titulo {
+  color: rgb(50, 42, 165);
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: normal;
+}
+.enlace {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+}
+.btn {
+  margin: 6px;
+  padding: 4px;
+  color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #064247;
+  border-radius: 2px;
+  border: 1px solid #063751;
+  background-color: #6ee7f2;
+}
+
+.btn:hover {
+  color: #063751;
+  background-color: white;
+}
